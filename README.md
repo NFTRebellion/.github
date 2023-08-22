@@ -1,5 +1,5 @@
 # .github
-
+<img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg?sanitize=true" height="130" style="max-width: 100%;">
 <!--
 
 View the NFT Rebellion Slide Deck
