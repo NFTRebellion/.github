@@ -1,27 +1,4 @@
 # .github
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NFT Rebellion READ ME</title>
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <style>
-        body {
-            background-color: black;
-            margin: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
-        
-        .centered-image {
-            max-width: 100%;
-            max-height: 100%;
-        }
-    </style>
-</head>
 <body>
     <p>
       <img src="https://avatars.githubusercontent.com/u/142549176?s=200&v=4" alt="Centered Image" class="centered-image" height="130" style="max-width: 100%;">
