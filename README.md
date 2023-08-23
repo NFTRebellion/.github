@@ -2,7 +2,7 @@
 <img src="https://avatars.githubusercontent.com/u/142549176?s=200&v=4" height="130" style="max-width: 100%;"> 
 <br/>
 <a>NFT Rebellion</a>
-<p>View the NFT Rebellion Slide Deck</p>
+<a>View the NFT Rebellion Slide Deck</a>
 <a href="https://drive.proton.me/urls/P7KBQN3DKR#xSVHTVgFxT6c">https://drive.proton.me/urls/P7KBQN3DKR#xSVHTVgFxT6c</a>
 
 <!--
