@@ -1,5 +1,13 @@
 # .github
-<img src="https://avatars.githubusercontent.com/u/142549176?s=200&v=4" height="130" style="max-width: 100%;"> NFT Rebellion
+<img src="https://avatars.githubusercontent.com/u/142549176?s=200&v=4" height="130" style="max-width: 100%;"> 
+<br/>
+<a>NFT Rebellion</a>
+<p>iew the NFT Rebellion Slide Deck</p>
+<a href="https://drive.proton.me/urls/P7KBQN3DKR#xSVHTVgFxT6c">[link text](https://drive.proton.me/urls/P7KBQN3DKR#xSVHTVgFxT6c)</a>
+
+https://drive.proton.me/urls/P7KBQN3DKR#xSVHTVgFxT6c
+V
+https://drive.proton.me/urls/P7KBQN3DKR#xSVHTVgFxT6c
 
 <!--
 
