@@ -1,7 +1,7 @@
 # .github
-<img src="https://avatars.githubusercontent.com/u/142549176?s=200&v=4" height="130" style="max-width: 100%;"> 
-<br/>
-<p>NFT Rebellion
+<p>
+  <img src="https://avatars.githubusercontent.com/u/142549176?s=200&v=4" height="130" style="max-width: 100%;"> 
+  NFT Rebellion
   <br/>
   View the NFT Rebellion Slide Deck
   <br/>
