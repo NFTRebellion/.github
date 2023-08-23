@@ -1,6 +1,6 @@
 # .github
 <body>
-    <p>
+    <p aligh="center">
       <img src="https://avatars.githubusercontent.com/u/142549176?s=200&v=4" alt="Centered Image" class="centered-image" height="130" style="max-width: 100%;">
       View the NFT Rebellion Slide Deck
       <br/>
