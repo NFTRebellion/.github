@@ -5,10 +5,6 @@
 <p>View the NFT Rebellion Slide Deck</p>
 <a href="https://drive.proton.me/urls/P7KBQN3DKR#xSVHTVgFxT6c">https://drive.proton.me/urls/P7KBQN3DKR#xSVHTVgFxT6c</a>
 
-https://drive.proton.me/urls/P7KBQN3DKR#xSVHTVgFxT6c
-V
-https://drive.proton.me/urls/P7KBQN3DKR#xSVHTVgFxT6c
-
 <!--
 
 View the NFT Rebellion Slide Deck
