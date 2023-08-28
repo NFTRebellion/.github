@@ -5,7 +5,8 @@
 <!--        <br/>
         View the NFT Rebellion Slide Deck
         <br/>
--->        <a href="https://drive.proton.me/urls/P7KBQN3DKR#xSVHTVgFxT6c">https://drive.proton.me/urls/P7KBQN3DKR#xSVHTVgFxT6c</a>
+       <a href="https://drive.proton.me/urls/P7KBQN3DKR#xSVHTVgFxT6c">https://drive.proton.me/urls/P7KBQN3DKR#xSVHTVgFxT6c</a>
+--> 
     </p>
 </body>
 </html>
