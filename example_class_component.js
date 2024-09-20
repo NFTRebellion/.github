@@ -21,7 +21,9 @@ export default class ExampleComponent extends Component {
         return (
             <React.Fragment>
                 <input type="text"/>
-                <Button>Submit</Button>
+                <Button onClick={this.someFunction}>
+                    Submit
+                </Button>
             </React.Fragment>
         )
     }
